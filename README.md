@@ -317,6 +317,8 @@ Each topic has an `*Examples.RunAllExamples()` method that prints section header
 ---
 ## License
 
+This project is licensed under the [MIT License](LICENSE.txt).
+
 ---
 
 ## Acknowledgements
